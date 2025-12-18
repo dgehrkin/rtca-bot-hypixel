@@ -35,5 +35,3 @@ See [QUICKSTART.md](QUICKSTART.md) for detailed installation and setup instructi
 ## Creator
 
 Created by **TurkishMenace** on Hypixel
-
-![ZoKPU0I](https://github.com/user-attachments/assets/fbd17103-215e-4c34-87de-f34828de9a1b)
